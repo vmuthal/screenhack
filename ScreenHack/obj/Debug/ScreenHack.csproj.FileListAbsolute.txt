@@ -1,0 +1,9 @@
+C:\fun\ScreenHack\ScreenHack\bin\Debug\ScreenHack.exe.config
+C:\fun\ScreenHack\ScreenHack\bin\Debug\ScreenHack.exe
+C:\fun\ScreenHack\ScreenHack\bin\Debug\ScreenHack.pdb
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.csprojResolveAssemblyReference.cache
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.Properties.Resources.resources
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.csproj.GenerateResource.Cache
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.exe
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.pdb
+C:\fun\ScreenHack\ScreenHack\obj\Debug\ScreenHack.MainForm.resources
